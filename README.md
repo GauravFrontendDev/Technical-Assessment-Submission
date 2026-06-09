@@ -16,7 +16,7 @@ php8.4 /usr/local/bin/composer install --ignore-platform-reqs
 php8.4 artisan serve
 ```
 
-Then open the URL printed by Laravel, for example `http://127.0.0.1:8000`.
+Then open the URL printed by Laravel, for example `http://127.0.0.1:8001`.
 
 ## What Is Included
 
