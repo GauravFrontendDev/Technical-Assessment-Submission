@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Technical-Assessment-Submission
-=======
 # Drag-and-Drop Form Builder Assignment
 
 This Laravel project implements a fully functional Form Builder UI at `/`.
@@ -80,4 +77,3 @@ I used the native HTML5 Drag and Drop API instead of adding a third-party librar
   ]
 }
 ```
->>>>>>> 9d07a18 (Initial technical assessment submission)
